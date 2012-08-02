@@ -1,0 +1,11 @@
+C:\Demo\SampleSPWorkflowCreator\SampleSPWorkflowCreator\bin\Debug\SampleSPWorkflowCreator.exe
+C:\Demo\SampleSPWorkflowCreator\SampleSPWorkflowCreator\bin\Debug\SampleSPWorkflowCreator.pdb
+C:\Demo\SampleSPWorkflowCreator\SampleSPWorkflowCreator\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\SampleSPWorkflowCreator\SampleSPWorkflowCreator\obj\Debug\SampleSPWorkflowCreator.Form1.resources
+C:\Demo\SampleSPWorkflowCreator\SampleSPWorkflowCreator\obj\Debug\SampleSPWorkflowCreator.Properties.Resources.resources
+C:\Demo\SampleSPWorkflowCreator\SampleSPWorkflowCreator\obj\Debug\SampleSPWorkflowCreator.csproj.GenerateResource.Cache
+C:\Demo\SampleSPWorkflowCreator\SampleSPWorkflowCreator\obj\Debug\SampleSPWorkflowCreator.exe
+C:\Demo\SampleSPWorkflowCreator\SampleSPWorkflowCreator\obj\Debug\SampleSPWorkflowCreator.pdb
+C:\Demo\SampleSPWorkflowCreator\SampleSPWorkflowCreator\bin\Debug\SampleSPWorkflowCreator.exe.config
+C:\Demo\SampleSPWorkflowCreator\SampleSPWorkflowCreator\bin\Debug\microsoft.sharepoint.WorkflowActions.dll
+C:\Demo\SampleSPWorkflowCreator\SampleSPWorkflowCreator\bin\Debug\Microsoft.SharePoint.WorkflowActions.pdb

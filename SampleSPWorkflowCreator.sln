@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleSPWorkflowCreator", "SampleSPWorkflowCreator\SampleSPWorkflowCreator.csproj", "{C16C4E8D-C6D5-4A59-A49D-D4AA2F3ABCE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_SharePointDefaultActivityStub", "_SharePointDefaultActivityProxy\_SharePointDefaultActivityStub.csproj", "{10977787-0D1A-43BC-926A-94B545CA6045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C16C4E8D-C6D5-4A59-A49D-D4AA2F3ABCE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16C4E8D-C6D5-4A59-A49D-D4AA2F3ABCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16C4E8D-C6D5-4A59-A49D-D4AA2F3ABCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16C4E8D-C6D5-4A59-A49D-D4AA2F3ABCE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10977787-0D1A-43BC-926A-94B545CA6045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10977787-0D1A-43BC-926A-94B545CA6045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10977787-0D1A-43BC-926A-94B545CA6045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10977787-0D1A-43BC-926A-94B545CA6045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
